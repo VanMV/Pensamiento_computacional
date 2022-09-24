@@ -10,5 +10,7 @@ Paso 7. área = base * altura
 Paso 8. Mostrar 'El área del rectángulo es ',área
 Paso 9. FIN
 
+
+
 ![image](https://user-images.githubusercontent.com/113804525/192122167-02f93f75-1617-4f85-b9ed-2dc3a67c7ee0.png)
 
