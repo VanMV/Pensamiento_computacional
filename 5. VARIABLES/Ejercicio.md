@@ -48,7 +48,7 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
 	Escribir 'El promedio de ',nombre_alumno,' es el siguiente: ',promedio_alumno
 	FIN	
       
-      ![image](https://user-images.githubusercontent.com/113804525/192121760-f61e76e6-ac4b-4a9c-bd54-f14a3cbd53af.png)
+     ![image](https://user-images.githubusercontent.com/113804525/192121771-99c0d6be-0b3a-4ddf-bed0-a2e0f50f84ea.png)
 
       
 ## EJERCICIO 3
