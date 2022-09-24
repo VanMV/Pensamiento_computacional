@@ -73,5 +73,6 @@ Realiza un algoritmo para  un programa que solicite al usuario ingresar la canti
        Paso 7. Mostrar ('El consumo por kilómetro es de ',consumo)
        Paso 8. FIN
    
+![image](https://user-images.githubusercontent.com/113804525/192121729-375e4770-c188-4ef4-9b39-26eca2a92e29.png)
 
 Ahora llevalos a PSINT
