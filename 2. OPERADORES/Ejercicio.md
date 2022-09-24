@@ -52,7 +52,10 @@ notifica que ha sido acreedor al bono de puntualidad. Si el empleado tiene
 baja al final del mes. Describe tal situación usando operadores
 relacionales.
 
-      TU RESPUESTA AQUI
+     
+      PUNTUAL == BONO 
+      2 RETARDOS == SUSPENSIÓN
+      3 RETARDOS == BAJA
 
 Reto. Analiza el problema y selecciona la opción que consideres que lo
 resuelve:
