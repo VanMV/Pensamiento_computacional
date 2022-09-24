@@ -48,6 +48,8 @@ Realiza un algoritmo que calcule el promedio de un alumno el cual tiene cuatro c
 	Escribir 'El promedio de ',nombre_alumno,' es el siguiente: ',promedio_alumno
 	FIN	
       
+      ![image](https://user-images.githubusercontent.com/113804525/192121760-f61e76e6-ac4b-4a9c-bd54-f14a3cbd53af.png)
+
       
 ## EJERCICIO 3
 
@@ -59,6 +61,8 @@ Realiza un algoritmo para un programa que solicite al usuario su nombre y le sal
       Paso 4. Asignar nombre
       Paso 5. Mostrar ('Hola ',nombre)
       Paso 6. FIN
+      
+![image](https://user-images.githubusercontent.com/113804525/192121754-0ca097cf-e881-44ef-bf59-8b011cb1f3b3.png)
 
 ## EJERCICIO 3
 
